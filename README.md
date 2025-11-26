@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksuveda2006
 - 👀 I’m interested in collabarative learning
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Full Stack Development & Natural Language Processing
 - 💞️ I’m looking to collaborate on projects related to tech
 - 📫 How to reach me dm me in linkedin https://www.linkedin.com/in/suveda-kakarala-626277290/
 - 😄 Pronouns: she/her
